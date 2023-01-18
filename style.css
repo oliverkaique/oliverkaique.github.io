@@ -1,0 +1,13 @@
+body {
+  background-color: darkslategrey;
+}
+
+h1,
+h2 {
+  color: aquamarine;
+}
+
+p,
+ul {
+  color: aliceblue;
+}
